@@ -1,0 +1,15 @@
+
+.imagendelcentro{
+  justify-self: center;
+}
+
+#footerimage{
+  background: linear-gradient(#10263b, #2567a5) ;
+  padding-left: 17%;
+}
+
+#form-div[type = "text"]{
+  -webkit-appearance: none !important;
+  border: none;
+  border-bottom: 1px solid #ffffff;
+}
